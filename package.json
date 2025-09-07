@@ -1,0 +1,27 @@
+{
+  "name": "use-idle-action",                     
+  "version": "1.0.0",                           
+  "description": "A React hook to perform actions when the user is idle.",  
+  "main": "src/index.js",                       
+  "files": ["src"],                             
+  "keywords": [
+    "react",
+    "hook",
+    "idle",
+    "useIdle",
+    "custom-hook"
+  ],
+  "author": "Dharmesh Gidwani <dharmeshgidwani50@gmail.com>", 
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dharmeshgidwani/use-idle-action.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dharmeshgidwani/use-idle-action/issues"
+  },
+  "homepage": "https://github.com/dharmeshgidwani/use-idle-action#readme",
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  }
+}
