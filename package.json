@@ -1,6 +1,6 @@
 {
   "name": "use-idle-action",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A React hook to perform actions when the user is idle.",
   "main": "src/index.js",
   "files": [
