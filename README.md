@@ -26,5 +26,3 @@ npm install use-idle-action
    - Removes listeners + clears timeout when component unmounts → avoids memory leaks.
 
 ---
-
-👉 Next step: do you want me to also give you the **npm publish commands step-by-step** so you can make this hook public right now?
